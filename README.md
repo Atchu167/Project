@@ -49,7 +49,6 @@ README.md
 # Project - 2
 Customer Lifetime Value Prediction Model
 # Customer Lifetime Value Prediction Model🚨
-This project analyzes employee attrition using classification models and explains the driving factors behind resignations using SHAP. It also provides visual insights using Power BI.
 
 ## Objective
 - Identify key factors influencing employee resignation.
